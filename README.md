@@ -54,7 +54,7 @@ cd OwenVision
 ```
 2. Install the required dependencies:
 ```
-pip install -r requirements.txt
+uv sync
 ```
 Verify your camera setup:Ensure your webcam is connected and accessible through OpenCV.
 Download and configure QwenLM:
