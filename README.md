@@ -95,4 +95,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - All contributors and supporters of OwenVision.
 
 Start exploring the power of real-time event description with OwenVision today!
-Made with ❤️ by Prakhar Awasthi[https://github.com/prakhar105]
+Made with ❤️ by [Prakhar Awasthi](https://github.com/prakhar105)
