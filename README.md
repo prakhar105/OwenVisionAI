@@ -46,7 +46,7 @@ The program will:
 3. Use QwenLM to generate a descriptive narrative for the detected events.
 4. Display the live camera feed with the event description overlaid.
 
-# Installation
+# 📥 Installation
 1. Clone the repository:
 ```
 git clone https://github.com/yourusername/OwenVision.git
@@ -73,7 +73,7 @@ When pointing the camera at a scene where someone is walking a dog, OwenVision m
 
 - Event Detection: Modify the OpenCV event detection logic in event_detector.py to adapt the system for specialized use cases (e.g., sports analysis, traffic monitoring).
 
-# Contributing
+# 🤝 Contributing
 
 We welcome contributions from the community! To contribute:
 
@@ -83,7 +83,7 @@ We welcome contributions from the community! To contribute:
 4. Push to the branch: git push origin feature-name.
 5. Create a pull request.
 
-# License
+# 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgments
@@ -95,3 +95,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - All contributors and supporters of OwenVision.
 
 Start exploring the power of real-time event description with OwenVision today!
+Made with ❤️ by Prakhar Awasthi[https://github.com/prakhar105]
